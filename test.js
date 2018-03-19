@@ -8,7 +8,7 @@ function testing() {
     console.log("added line in devel-feature2");
 
     console.log("working on dev");
-    console.log("commit test- in bullets-1");
+    console.log("commit test- in bullets-12take 3");
 
 
 }
